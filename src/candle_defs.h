@@ -38,7 +38,7 @@
 
 #define CANDLE_MAX_DEVICES      (32)
 #define CANDLE_URB_COUNT        (30)
-#define CANDLE_URB_BUFFER_SIZE  (64)
+#define CANDLE_URB_BUFFER_SIZE  (512)
 
 #pragma pack(push,1)
 
